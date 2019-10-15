@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yepremayvazyanAzure/Rewards%20Program/_apis/build/status/DVAGroup.pipelines-java?branchName=master)](https://dev.azure.com/yepremayvazyanAzure/Rewards%20Program/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
